@@ -1,0 +1,600 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--<![endif]-->
+<title>Important change to your Capital One Business card</title>
+<style type="text/css">
+@import url('https://ecm.capitalone.com/Messaging/assets/images/global/css/webfont.css');
+</style>
+<style type="text/css">
+* {
+font-family: 'Optimist', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
+
+.webfont {
+font-family: 'Optimist', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
+
+.facta {
+font-family: 'Arial Narrow', 'Times New Roman', serif !important;
+}
+
+strong {
+font-weight: 600;
+}
+
+span.textLink:hover,
+span.textLink:hover * {
+color: #014E74 !important;
+}
+
+.darklink span.textLink:hover,
+.darklink span.textLink:hover * {
+color: #81D4FE !important;
+}
+
+.footer span.textLink:hover,
+.footer span.textLink:hover * {
+color: #696969 !important;
+}
+
+a,
+u + #body a {
+color: inherit;
+text-decoration: none;
+font-size: inherit;
+font-family: inherit;
+font-weight: inherit;
+line-height: inherit;
+}
+
+img + div {
+display: none !important;
+}
+
+@media only screen and (max-width:639px) {
+.top {
+padding-top: 0 !important;
+}
+.mblhide {
+display: none !important;
+}
+.mblshow {
+display: inline !important;
+}
+.column {
+width: 100% !important;
+max-width: 100% !important;
+}
+.column50 {
+width: 50% !important;
+max-width: 50% !important;
+float: left;
+}
+.clear {
+clear: both;
+}
+.desktopimg {display:none; display:none !important;}
+.mobileimg {display:block !important; width:auto !important; overflow:visible !important; float:none !important; max-height:inherit !important; max-width:inherit !important; line-height:auto !important; margin-top:0 !important; visibility:inherit !important;}
+}
+
+@media screen and (max-width:414px) {
+.cssbutton {
+width: 100% !important;
+}
+}
+</style>
+<style type="text/css" class="accordionstyles">
+input[type=checkbox]:not(:checked)~.hidden {
+max-height:0px;
+overflow:hidden;
+transition:max-height 0.25s ease-out;
+}
+input[type=checkbox]:checked~.hidden {
+height:auto;
+max-height:9999px;
+}
+input[type=checkbox]:not(:checked)~label .labelIcon:before {
+content:"+";
+}
+input[type=checkbox]:checked~label .labelIcon:before {
+content:"−";
+}
+input[type=checkbox]~label:hover td {
+background-color:#f4f4f4 !important;
+}
+@media screen and (max-width:639px) {
+.accordPad {padding:0 0 32px !important;}
+.accordItemTitle {padding:16px 24px !important;}
+.accordItemContent {padding:8px 24px 16px !important;}
+}
+</style>
+<style type="text/css" class="darkmodestyles">
+:root {
+color-scheme: light dark;
+supported-color-schemes: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+.darkimg {
+display: block !important;
+width: auto !important;
+overflow: visible !important;
+float: none !important;
+max-height: inherit !important;
+max-width: inherit !important;
+line-height: auto !important;
+margin-top: 0 !important;
+visibility: inherit !important;
+}
+.darklogo {
+padding: 4px 8px!important;
+}
+.lightimg {
+display: none;
+display: none !important;
+}
+.darkmode {
+background-color: #141414 !important;
+}
+.darkaccent {
+background-color: #3d3d3d !important;
+}
+.darkoverlay {
+background: rgba(61, 61, 61, .85) !important;
+}
+.darkborder {
+border-color: #ffffff !important;
+}
+.darktext,
+table.darkmode td,
+img,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+strong,
+a,
+span {
+color: #ffffff !important;
+}
+span.textLink,
+span.textLink * {
+color: #3ABCFD !important;
+}
+span.textLink:hover,
+span.textLink:hover * {
+color: #81D4FE !important;
+}
+.header span.textLink,
+.header span.textLink *,
+.footer span.textLink,
+.footer span.textLink * {
+color: #ffffff !important;
+}
+.header span.textLink:hover,
+.header span.textLink:hover *,
+.footer span.textLink:hover,
+.footer span.textLink:hover * {
+color: #ffffff !important;
+}
+.ghostbtn {
+border-color: #3ABCFD !important;
+}
+.ghostbtn strong {
+color: #3ABCFD !important;
+}
+input[type=checkbox]~label:hover td {
+background-color: #3d3d3d !important;
+color: #ffffff !important;
+}
+}
+
+[data-ogsc] .darkimg,
+[data-ogsb] .darkimg {
+display: block !important;
+width: auto !important;
+overflow: visible !important;
+float: none !important;
+max-height: inherit !important;
+max-width: inherit !important;
+line-height: auto !important;
+margin-top: 0 !important;
+visibility: inherit !important;
+}
+
+[data-ogsc] .darklogo,
+[data-ogsb] .darklogo {
+padding: 4px 8px!important;
+}
+
+[data-ogsc] .lightimg,
+[data-ogsb] .lightimg {
+display: none;
+display: none !important;
+}
+
+[data-ogsc] .darkmode,
+[data-ogsb] .darkmode {
+background-color: #141414 !important;
+}
+
+[data-ogsc] .darkaccent,
+[data-ogsb] .darkaccent {
+background-color: #3d3d3d !important;
+}
+
+[data-ogsc] .darkoverlay,
+[data-ogsb] .darkoverlay {
+background: rgba(61, 61, 61, .85) !important;
+}
+
+[data-ogsc] .darkborder,
+[data-ogsb] .darkborder {
+border-color: #ffffff !important;
+}
+
+[data-ogsc] .darktext,
+[data-ogsc] table.darkmode td,
+[data-ogsc] img,
+[data-ogsc] h1,
+[data-ogsc] h2,
+[data-ogsc] h3,
+[data-ogsc] h4,
+[data-ogsc] h5,
+[data-ogsc] h6,
+[data-ogsc] p,
+[data-ogsc] li,
+[data-ogsc] strong,
+[data-ogsc] a,
+[data-ogsc] span,
+[data-ogsb] a {
+color: #ffffff !important;
+}
+
+[data-ogsc] span.textLink,
+[data-ogsc] span.textLink *,
+[data-ogsb] span.textLink,
+[data-ogsb] span.textLink * {
+color: #3ABCFD !important;
+}
+
+[data-ogsc] .header span.textLink,
+[data-ogsc] .header span.textLink *,
+[data-ogsb] .header span.textLink,
+[data-ogsb] .header span.textLink *,
+[data-ogsc] .footer span.textLink,
+[data-ogsc] .footer span.textLink *,
+[data-ogsb] .footer span.textLink,
+[data-ogsb] .footer span.textLink * {
+color: #ffffff !important;
+}
+
+[data-ogsc] .ghostbtn,
+[data-ogsb] .ghostbtn {
+border-color: #3ABCFD !important;
+}
+
+[data-ogsc] .ghostbtn strong,
+[data-ogsb] .ghostbtn strong {
+color: #3ABCFD !important;
+}
+
+[data-ogsc] input[type=checkbox]~label:hover td,
+[data-ogsb] input[type=checkbox]~label:hover td {
+background-color: #3d3d3d !important;
+color: #ffffff !important;
+}
+</style>
+<!--[if mso]>
+<style type="text/css">
+a:link {font-family: Arial, sans-serif; text-decoration:underline !important;}
+.cssbutton a {text-decoration:none !important;}
+</style>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+<style type="text/css">
+table {border-collapse:collapse;}
+ul li {text-indent: -1em;}
+ol li {text-indent: -1.5em;}
+</style>
+<style type="text/css">
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG></o:AllowPNG>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+</style>
+<![endif]-->
+        <!-- CRD: 0123, SID: 9.1, TS: 012323-220509 -->
+</head>
+
+<body style="background-color:#f4f4f4; margin:0; padding:0; min-width:100%;" bgcolor="#f4f4f4" id="body" class="darkmode">
+<div lang="en" role="article" aria-label="Email Content - Important change to your Capital One Business card" style="width:100%; table-layout:fixed; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; -webkit-font-smoothing:antialiased; background-color:#f4f4f4;" class="darkmode">
+<div style="display:none !important; mso-hide:all; font-size:1px; color:#ffffff; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;" class="preheader">New name, same great benefits&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div><!--[if (gte mso 9)|(IE)]>
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#f4f4f4" role="presentation" class="darkmode">
+        <tr>
+        <td>
+        <table width="640" cellpadding="0" cellspacing="0" border="0" align="center" role="presentation">
+        <tr>
+        <td>
+        <![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" style="margin:0 auto; width:100%; max-width:640px;" align="center" bgcolor="#f4f4f4" role="presentation" class="darkmode">
+<tr>
+<td style="padding-top:16px;" class="top">
+ <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" role="presentation" class="darkmode header">
+<tr>
+<td style="padding:16px 24px 8px;">
+<table align="right" style="margin-left:auto;" cellpadding="0" cellspacing="0" border="0" role="presentation">
+<tr>
+<td style="padding-right:4px;">
+<a href="http://mi.capitalone.com/p/cp/f6f44a2fdb820cf9/c?url=http%3A%2F%2Fmi.capitalone.com%2Fp%2Frp%2Fb0e6903eda1f68b1%2Furl">
+<img src="https://ecm.capitalone.com/Messaging/assets/images/icons_global/signIn_ui_3x.png" style="display:block; font:12px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; line-height:18px;" width="17" height="18" border="0" alt="Sign in to your account" class="lightimg webfont"><!--[if !mso]><! --><div class="darkimg" style="display:none; overflow:hidden; float:left; width:0px; max-height:0px; max-width:0px; line-height:0px; visibility:hidden;"><img src="https://ecm.capitalone.com/Messaging/assets/images/icons_global/signIn_ui_3x_dark.png" style="display:block; font:12px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#ffffff; line-height:18px;" width="17" height="18" border="0" alt="Sign in to your account" class="webfont">
+</div><!--<![endif]-->
+</a>
+</td>
+<td>
+<a href="http://mi.capitalone.com/p/cp/f6f44a2fdb820cf9/c?url=http%3A%2F%2Fmi.capitalone.com%2Fp%2Frp%2Fb0e6903eda1f68b1%2Furl" style="display:block; font:12px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; line-height:18px; text-decoration:none;" class="webfont"><span class="textLink" style="padding-bottom:1px; border-bottom:1px solid;">Sign in</span></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:0 24px; line-height:0; height:1px; font-size:0;"><div style="border-bottom:1px solid #D4D4D4;">&nbsp;</div></td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" role="presentation" class="darkmode header">
+<tr>
+<td style="padding:16px 24px;">
+<h1 style="margin:0;"><a href="https://www.capitalone.com/small-business/homepage/">
+<img src="https://ecm.capitalone.com/Messaging/assets/images/logos_global/lockup_business_3x.png" style="width: 100%; max-width: 259px !important; height: auto; display: block; color: #141414; font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;" width="259" height="58" border="0" alt="Capital One Business" class="lightimg webfont"><!--[if !mso]><! --><div class="darkimg darklogo" style="display:none; overflow:hidden; float:left; width:0px; max-height:0px; max-width:0px; line-height:0px; visibility:hidden;"><img src="https://ecm.capitalone.com/Messaging/assets/images/logos_global/lockup_business_3x_dark.png" style="width: 100%; max-width: 244px !important; height: auto; display: block; color: #141414; font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;" width="244" height="50" border="0" alt="Capital One Business" class="webfont">
+</div><!--<![endif]-->
+</a></h1>
+</td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" role="presentation" class="darkmode header">
+<tr>
+<td style="padding:0 24px 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f4f4f4" role="presentation" style="border-radius:4px;" class="darkaccent">
+<tr>
+<td style="width:36px; padding:4px; vertical-align:middle;"><img src="https://ecm.capitalone.com/Messaging/assets/images/icons_global/card_3x_compact.png" style="display:block;" width="36" height="26" border="0" alt="" class="lightimg"><!--[if !mso]><! -->
+<div class="darkimg" style="display:none; overflow:hidden; float:left; width:0px; max-height:0px; max-width:0px; line-height:0px; visibility:hidden;"><img src="https://ecm.capitalone.com/Messaging/assets/images/icons_global/card_3x_dark_compact.png" style="display:block;" width="36" height="26" border="0" alt=""> </div><!--<![endif]-->
+</td>
+<td style="padding:8px 16px 8px 0; font-size:12px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:18px; color:#141414; text-align:left; vertical-align:middle;" class="webfont">
+<p style="margin:0;">
+ Account ending in {{last4}}
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+          <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" role="presentation" class="darkmode">
+<tr>
+<td style="padding:32px 24px 32px 24px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; text-align:center;" class="webfont">
+<h2 style="margin:0; font-size:32px; line-height:42px; mso-line-height-rule:exactly; font-weight:600;"><span style="color:#013D5B;font-weight:300;font-size:32px;line-height:42px;">Your card&rsquo;s getting a </span><span style="color:#013D5B;font-weight:600;font-size:32px;line-height:42px;">new name</span></h2>
+</td>
+</tr>
+</table>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" bgcolor="#ffffff" class="darkmode">
+<tr>
+<td>
+<img src="https://ecm.capitalone.com/Messaging/assets/images/47000/100/47196/47196_VSBCRB_Banner-Alt-4.jpg" style="width:100%; max-width:640px; height:auto; display:block; font:20px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; text-align:center; line-height:30px;" width="640" border="0" alt="" class="webfont">
+</td>
+</tr>
+</table>
+                   <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" role="presentation" class="darkmode">
+<tr>
+<td style="font-size: 0; line-height: 0; padding: 0 0 32px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding:0 24px 8px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; text-align:left;" class="webfont">
+<h2 style="font-size: 16px; line-height: 24px; mso-line-height-rule: exactly; font-weight: 400; margin: 0;">{{firstName}},</h2> </td>
+</tr>
+<tr>
+<td style="padding:0 24px; font-size:16px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; line-height:24px; text-align:left;" class="webfont">
+<p style="margin: 0 0 8px;">In the next few days, your Capital&nbsp;One Spark Travel Elite card will become the <strong style="">Capital&nbsp;One Venture X Business card</strong>.</p>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0 8px; font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</table>
+                   <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" role="presentation" class="darkmode">
+<tr>
+<td style="font-size: 0; line-height: 0; padding: 0 0 8px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding:0 24px 0px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; text-align:left;" class="webfont">
+<h2 style="font-size: 20px; line-height: 30px; mso-line-height-rule: exactly; font-weight: 600; margin: 0;"><span style="color:#013D5B;font-weight:400;"><strong style="">What does this mean? </strong></span></h2> </td>
+</tr>
+<tr>
+<td style="padding:0 24px; font-size:16px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; line-height:24px; text-align:left;" class="webfont">
+<p style="margin: 0 0 16px;">The name of your card will change to Capital&nbsp;One Venture X Business, and the card image will look a little different when you sign in to your account. But your account number will stay the same, and so will the business-grade benefits you enjoy today.</p>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0 8px; font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</table>
+                   <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" role="presentation" class="darkmode">
+<tr>
+<td style="font-size: 0; line-height: 0; padding: 0 0 8px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding:0 24px 0px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; text-align:left;" class="webfont">
+<h2 style="font-size: 20px; line-height: 30px; mso-line-height-rule: exactly; font-weight: 600; margin: 0;"><span style="color:#013D5B;font-weight:400;"><strong style="">Is there anything I need to do? </strong></span></h2> </td>
+</tr>
+<tr>
+<td style="padding:0 24px; font-size:16px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; line-height:24px; text-align:left;" class="webfont">
+<p style="margin: 0 0 16px;">There&rsquo;s no action you need to take, and your card will continue to work as usual. We&rsquo;ll reach back out when the transition is complete to let you know how to order a new card (if you want to). <br><br>Thanks for being a Capital&nbsp;One Business customer.</p>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0 8px; font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</table>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" role="presentation" class="darkmode">
+<tr>
+<td style="font-size: 0; line-height: 0; padding: 0 0 8px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align:center; font-size:0; padding:0 12px;" dir="ltr">
+
+                                            <!--[if (gte mso 9)|(IE)]>
+                                            <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation">
+                                            <tr>
+                                            <td width="205" valign="top">
+                                            <![endif]-->
+                                       
+<div style="width:100%; max-width:205px; display:inline-block; vertical-align:top;" class="column">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" dir="ltr">
+<tr>
+<td style="text-align: center; padding: 0 12px 8px;">
+<img src="https://ecm.capitalone.com/Messaging/assets/images/47000/100/47196/47196_VSBCRB_Left-box.jpg" style="width:100%; max-width:181px!important; height:auto; font:20px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; text-align:center; line-height:30px;" width="181" class="webfont" border="0" alt="">
+</td>
+</tr>
+<tr>
+<td style="padding:0 0 8px; font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</table>
+</div>
+
+                                            <!--[if (gte mso 9)|(IE)]>
+                                            </td>
+                                            <td width="205" valign="top">
+                                            <![endif]-->
+                                       
+<div style="width:100%; max-width:205px; display:inline-block; vertical-align:top;" class="column">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" dir="ltr">
+<tr>
+<td style="text-align: center; padding: 0 12px 0px;">
+<img src="https://ecm.capitalone.com/Messaging/assets/images/47000/100/47196/47196_VSBCRB_Middle-box.jpg" style="width:100%; max-width:181px!important; height:auto; font:20px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; text-align:center; line-height:30px;" width="181" class="webfont" border="0" alt="">
+</td>
+</tr>
+<tr>
+<td style="padding:0 0 8px; font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</table>
+</div>
+
+                                            <!--[if (gte mso 9)|(IE)]>
+                                            </td>
+                                            <td width="205" valign="top">
+                                            <![endif]-->
+                                       
+<div style="width:100%; max-width:205px; display:inline-block; vertical-align:top;" class="column">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" dir="ltr">
+<tr>
+<td style="text-align: center; padding: 0 12px 8px;">
+<img src="https://ecm.capitalone.com/Messaging/assets/images/47000/100/47196/47196_VSBCRB_Right-box.jpg" style="width:100%; max-width:181px!important; height:auto; font:20px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#141414; text-align:center; line-height:30px;" width="181" class="webfont" border="0" alt="">
+</td>
+</tr>
+<tr>
+<td style="padding:0 0 8px; font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</table>
+</div>
+
+                                            <!--[if (gte mso 9)|(IE)]>
+                                            </td>
+                                            </tr>
+                                            </table>
+                                            <![endif]-->
+                                       
+</td>
+</tr>
+</table>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" class="footer">
+<tr>
+<td style="padding:24px 24px 0;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation">
+<tr>
+<td style="text-align:left; font-size:0;" dir="rtl"><!--[if (gte mso 9)|(IE)]>
+                           <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation">
+                           <tr>
+                           <td width="168" valign="top">
+                           <![endif]-->
+<div style="width:100%; max-width:168px; display:inline-block; vertical-align:top;" class="column">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" dir="ltr">
+<tr>
+<td style="padding-bottom:24px;">
+<table width="168" cellpadding="0" cellspacing="0" border="0" role="presentation">
+<tr>
+<td style="padding-right:16px;"><a href="https://www.facebook.com/CapitalOneBiz"><img src="https://ecm.capitalone.com/Messaging/assets/images/icons_global/facebook_3x.png" style="display:block; font:10px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#696969; line-height:16px;" width="30" height="30" border="0" alt="Like Capital One Business on Facebook" class="webfont"></a></td>
+<td style="padding-right:16px;"><a href="https://twitter.com/CapitalOneBiz"><img src="https://ecm.capitalone.com/Messaging/assets/images/icons_global/twitter_3x.png" style="display:block; font:10px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#696969; line-height:16px;" width="30" height="30" border="0" alt="Follow Capital One Business on Twitter" class="webfont"></a></td>
+<td style="padding-right:16px;"><a href="https://www.linkedin.com/showcase/capital-one-business/"><img src="https://ecm.capitalone.com/Messaging/assets/images/icons_global/linkedIn_3x.png" style="display:block; font:10px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#696969; line-height:16px;" width="30" height="30" border="0" alt="Follow Capital One Business on LinkedIn" class="webfont"></a></td>
+<td><a href="https://www.instagram.com/capitalonebusiness/"><img src="https://ecm.capitalone.com/Messaging/assets/images/icons_global/instagram_3x.png" style="display:block; font:10px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#696969; line-height:16px;" width="30" height="30" border="0" alt="Follow Capital One Business on Instagram" class="webfont"></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div><!--[if (gte mso 9)|(IE)]>
+                           </td>
+                           <td width="424" valign="top" dir="ltr">
+                           <![endif]-->
+<div style="width:100%; max-width:424px; display:inline-block; vertical-align:top; float:left;" class="column">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" dir="ltr">
+<tr>
+<td style="width:30px; padding:0 24px 24px 0;"><a href="http://mi.capitalone.com/p/cp/64521616053f3968/c?url=http%3A%2F%2Fmi.capitalone.com%2Fp%2Frp%2F35d5ff6ca064c3a9%2Furl" style="display:block;"><img src="https://ecm.capitalone.com/Messaging/assets/images/icons_global/appDownload_3x.png" style="display:block; font:10px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#696969; line-height:16px;" width="30" height="30" border="0" alt="Download the Capital One Mobile app" class="webfont"></a></td>
+<td style="padding-bottom:24px; font-size:12px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#696969; line-height:18px; text-align:left;" class="webfont"><a href="http://mi.capitalone.com/p/cp/64521616053f3968/c?url=http%3A%2F%2Fmi.capitalone.com%2Fp%2Frp%2F35d5ff6ca064c3a9%2Furl" style="color:#696969; text-decoration:none;"><span class="textLink" style="padding-bottom:1px; border-bottom:1px solid;">Download the Capital&nbsp;One Mobile app.</span></a></td>
+</tr>
+</table>
+</div><!--[if (gte mso 9)|(IE)]>
+                           </td>
+                           </tr>
+                           </table>
+                           <![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:0 24px; line-height:0; height:1px; font-size:0;"><div style="border-bottom:1px solid #7d7d7d;">&nbsp;</div></td>
+</tr>
+</table>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" class="footer">
+<tr>
+<td style="padding:24px; font:10px 'Helvetica Neue',Helvetica,Arial,sans-serif; color:#696969; line-height:16px; text-align:left;" class="webfont">
+{{render_dynamic_content(dynamic_html.global_html_footer01)}}
+<p style="margin:0;" class="info">
+VSBCRB 47196 67262
+</p>
+<p style="margin:16px 0 0 0;">
+               TP1001
+           </p>
+</td>
+</tr>
+</table>
+<table width="1" height="1" cellpadding="0" cellspacing="0" border="0" role="presentation"><tr><td style="font-size:0px; line-height:0px;"><img src="http://mi.capitalone.com/p/cp/f6f44a2fdb820cf9/o.gif" width="1" height="1" alt="" aria-hidden="true"></td></tr></table>
+<table width="1" height="1" cellpadding="0" cellspacing="0" border="0" role="presentation"><tr><td style="font-size:0px; line-height:0px;"><img src="http://mi.capitalone.com/p/cp/64521616053f3968/o.gif" width="1" height="1" alt="" aria-hidden="true"></td></tr></table>
+</td>
+</tr>
+</table><!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+</div>
+</body>
+
+</html>
